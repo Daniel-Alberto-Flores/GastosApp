@@ -1,0 +1,12 @@
+E:\Totito\Mis Programas\C#\source\repos\Gastos App\Gastos App\bin\Debug\Gastos App.exe
+E:\Totito\Mis Programas\C#\source\repos\Gastos App\Gastos App\bin\Debug\Gastos App.pdb
+E:\Totito\Mis Programas\C#\source\repos\Gastos App\Gastos App\obj\Debug\Gastos App.exe
+E:\Totito\Mis Programas\C#\source\repos\Gastos App\Gastos App\obj\Debug\Gastos App.pdb
+E:\Totito\Mis Programas\C#\source\repos\Gastos App\Gastos App\obj\Debug\Gastos_App.MainForm.resources
+E:\Totito\Mis Programas\C#\source\repos\Gastos App\Gastos App\obj\Debug\Gastos App.csproj.GenerateResource.Cache
+E:\Totito\Mis Programas\C#\source\repos\Gastos App\Gastos App\bin\Debug\System.Data.SQLite.dll
+E:\Totito\Mis Programas\C#\source\repos\Gastos App\Gastos App\obj\Debug\Gastos_App.Egresos_Precarga.resources
+E:\Totito\Mis Programas\C#\source\repos\Gastos App\Gastos App\obj\Debug\Gastos_App.Ayuda.resources
+E:\Totito\Mis Programas\C#\source\repos\Gastos App\Gastos App\obj\Debug\Gastos App.csprojAssemblyReference.cache
+E:\Totito\Mis Programas\C#\source\repos\Gastos App\Gastos App\obj\Debug\Gastos App.csproj.CoreCompileInputs.cache
+E:\Totito\Mis Programas\C#\source\repos\Gastos App\Gastos App\obj\Debug\Gastos App.csproj.CopyComplete
