@@ -1,0 +1,155 @@
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.csproj.AssemblyReference.cache
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.Forms.frmMain.resources
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.csproj.GenerateResource.cache
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.AssemblyInfoInputs.cache
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.AssemblyInfo.cs
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.csproj.CoreCompileInputs.cache
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Datos.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Logica.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Modelo.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Logica.pdb
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Modelo.pdb
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Datos.pdb
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.csproj.CopyComplete
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.genruntimeconfig.cache
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\GastosApp.exe
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\Add.png
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\C#_logo.png
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\Calculator.png
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\Cancel.png
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\Delete.png
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\Edit.png
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\New.png
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\Question_1.png
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\Question_2.png
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\Save.png
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\SQLite.png
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\GastosApp.deps.json
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\GastosApp.runtimeconfig.json
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\GastosApp.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\GastosApp.pdb
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\GastosApp.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\refint\GastosApp.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\GastosApp.pdb
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\ref\GastosApp.dll
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.Properties.Resources.resources
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Notes.txt
+E:\Totito\Mis Programas\C#\source\repos\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.Forms.frmOutflowsPreload.resources
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\GastosApp.exe
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\C#_logo.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\Edit.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\SQLite.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Notes.txt
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\GastosApp.deps.json
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\GastosApp.runtimeconfig.json
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\GastosApp.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\GastosApp.pdb
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Datos.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Logica.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Modelo.dll
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Logica.pdb
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Modelo.pdb
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Datos.pdb
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.csproj.AssemblyReference.cache
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.Forms.frmMain.resources
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.Forms.frmOutflowsPreload.resources
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.Properties.Resources.resources
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.csproj.GenerateResource.cache
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.AssemblyInfoInputs.cache
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.AssemblyInfo.cs
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.csproj.CoreCompileInputs.cache
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.csproj.CopyComplete
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\GastosApp.dll
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\refint\GastosApp.dll
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\GastosApp.pdb
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.genruntimeconfig.cache
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\ref\GastosApp.dll
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.Forms.frmNotes.resources
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.Forms.frmIncomes.resources
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.Forms.frmOutflows.resources
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.Forms.frmAbout.resources
+C:\C#\source\GastosApp\PresentacionWF\obj\Debug\net6.0-windows\PresentacionWF.Forms.frmHelp.resources
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\About.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\Add.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\Back.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\Calculator.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\Cancel.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\Delete.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\GastosApp.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\GitHub.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\helpIcon.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\incomesIcon.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\LinkedIn.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\notesIcon.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\OpenSource.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\outflowsIcon.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\Save.png
+C:\C#\source\GastosApp\PresentacionWF\bin\Debug\net6.0-windows\Images\SourceForge.png

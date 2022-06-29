@@ -1,9 +1,9 @@
 Name: GastosApp
-Ver: 1.0.0
-Description: Allows you to load outflows and incomes.
+Last version: 2.0
+Description: Application used to upload income and outflows.
 Language used: C# .Net 6.0, Windows Forms Application
 Database engine used: SQLite
-Latest update: June 14, 2022
+Latest update: June 29, 2022
 
 Documentation used:
 
